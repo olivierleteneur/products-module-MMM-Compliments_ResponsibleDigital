@@ -1,0 +1,51 @@
+{
+  "anytime": [
+    "J'utilise la veille prolongée\nplutôt qu'un économiseur",
+    "J'utilise des ampoules LED",
+    "J'achète du matériel\nreconditionné",
+    "Je donne une seconde vie\nà mes vieux appareils",
+    "L'essentiel de l'empreinte\nd'un appareil vient\nde sa fabrication :\nje garde les miens\nplus longtemps",
+    "Un vieux PC peut revivre\ngrâce à Linux",
+    "J'utilise le mode sombre",
+    "Le mode sombre économise\nla batterie des écrans OLED",
+    "Quand le Wi-Fi est dispo,\nje le préfère à la 4G/5G",
+    "Je n'imprime pas\n(ou le moins possible)",
+    "Je me désabonne\ndes newsletters\nque je ne lis pas",
+    "J'utilise un lecteur\nde flux RSS",
+    "J'utilise mes favoris\nplutôt qu'un moteur\nde recherche",
+    "Je cherche avec\nles mots les plus précis",
+    "Je tape l'adresse du site\nau lieu de la chercher",
+    "J'utilise un bloqueur\nde publicités",
+    "Je télécharge ma musique\nplutôt que de la streamer",
+    "Je baisse la qualité vidéo\nquand la HD est inutile",
+    "Je nettoie ma boîte mail\nchaque semaine",
+    "J'envoie le moins de mails\npossible, au moins\nde destinataires possible",
+    "J'évite les pièces jointes :\nje partage un lien",
+    "Je limite mon usage\ndu cloud",
+    "Je simplifie mon code\nau maximum\n<!-- Keep it simple -->",
+    "Je factorise\nle code dupliqué",
+    "Je teste mon code :\nun bon développeur le fait",
+    "J'optimise mes requêtes SQL\n(et je mesure leur impact)",
+    "J'évalue mes pages web\navec EcoIndex",
+    "Low tech ne veut pas dire\npauvre tech",
+    "S'adapter au besoin\nplutôt qu'à l'envie"
+  ],
+  "morning": [
+    "Ma signature mail est courte\net sans image",
+    "J'éteins lumières,\nécrans et PC\nen quittant la maison"
+  ],
+  "afternoon": [
+    "J'éteins lumières,\nécrans et PC\nen quittant le bureau",
+    "Je ferme les onglets\ndont je ne me sers plus"
+  ],
+  "evening": [
+    "J'éteins mes appareils\nau lieu de les laisser\nen veille",
+    "J'éteins la box internet\net le décodeur TV la nuit",
+    "Je recharge mes appareils\nle jour, pas toute la nuit",
+    "Je lave mon linge à 30 °C\ndès que possible",
+    "Je fais sécher mon linge\nà l'air libre",
+    "Je regarde l'étiquette énergie :\nde A à G depuis 2021",
+    "Je ne préchauffe le four\nque si la recette l'exige",
+    "Je règle le chauffage\nà 19 °C en hiver"
+  ]
+}
