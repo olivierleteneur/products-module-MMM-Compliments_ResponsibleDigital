@@ -18,7 +18,7 @@ Point the module's `remoteFile` option to the file of your choice in `config/con
   module: "compliments",
   position: "lower_third",
   config: {
-    remoteFile: "https://raw.githubusercontent.com/olivierleteneur/products-MagicMirror-Modules-Compliments_ResponsibleDigital/main/compliments.json"
+    remoteFile: "https://raw.githubusercontent.com/olivierleteneur/products-module-MMM-Compliments_ResponsibleDigital/main/compliments.json"
   }
 },
 ```
